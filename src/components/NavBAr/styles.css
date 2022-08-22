@@ -1,0 +1,46 @@
+.navbar-container{
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 75 px;
+    background-color: orange;
+
+}
+ul{
+    font-size: 1.5em;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    
+
+}
+li{
+    margin-left: 50px;
+    margin-right: 50px;
+
+    
+}
+.loguin{
+    
+  color: white;
+  border-radius: 10%;
+  display: flex;
+  justify-content:center;
+  background-color:#164d75;
+  border-style: solid;
+  text-align: center;
+  font-family: Arial;
+  width: 50%;
+  padding: 10px;
+  font-size: 1.5em;
+  width: 90%;
+  margin-bottom: 010px;
+  margin-top: 10PX;
+ 
+}
+.loguin:hover{
+    background-color:gray;
+}
